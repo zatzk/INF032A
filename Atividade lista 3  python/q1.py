@@ -1,0 +1,1 @@
+lista = ['pessoa A', 'pessoa B', 'pessoa C']
